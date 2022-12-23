@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\G201210055_WebTeknolojileri.props" />
+</Project>
